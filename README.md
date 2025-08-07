@@ -8,7 +8,7 @@
  
 # 💫 About Me:
 
-🧣 Sophomore, CSE @ VIT, Vellore <br>
+🧣 Pre-Final Year, CSE @ VIT, Vellore <br>
 🔗 Check out my Bento! https://bento.me/ishan <br>
 🔭 Ask me about Android Apps, Python GUI, web development <br>
 🤖 I have some experience in Arduino <br>
