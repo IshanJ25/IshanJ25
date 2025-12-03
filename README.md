@@ -74,9 +74,9 @@
   <a href="">
     <img src="https://komarev.com/ghpvc/?username=ishanj25" height="40">
   </a>
-  <a href="https://www.buymeacoffee.com/IshanJ25">
+  <!-- <a href="https://www.buymeacoffee.com/IshanJ25">
     <img height="40" src="https://user-images.githubusercontent.com/86649457/232105592-894587b8-b33f-4411-a442-be7f6e5cb72f.png">
-  </a>
+  </a> -->
 </p>
 
 #### Here, a treat for you!
